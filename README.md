@@ -14,7 +14,7 @@ Welcome to the Bellybutton Biodiversity Dashboard! This interactive web applicat
 
 Here's a preview of the dashboard:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](./static/dashboard.png)
 
 ## Charts Included
 
